@@ -1,0 +1,25 @@
+
+.pizzatimebuttons {
+  width: 55%;
+  height: 55%;
+  object fit: cover;
+}
+
+
+img{
+  width:50%;
+  height: 50%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.form{
+  width: 50%;
+  height: 50%;
+}
+
+@media screen and (max-width: 500px){
+  .row{
+    width: 5%;
+  }
+}
